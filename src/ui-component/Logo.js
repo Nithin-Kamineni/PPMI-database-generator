@@ -22,7 +22,7 @@ const Logo = () => {
          *
          */
         <b>
-            <h1 style={{ fontSize: 18 }}>Microplastics & Nanoplastics PBTK Modeling</h1>
+            <h1 style={{ fontSize: 18 }}>PPMI dataset Generator</h1>
         </b>
         // <svg width="92" height="32" viewBox="0 0 92 32" fill="none" xmlns="http://www.w3.org/2000/svg">
         //     <path
